@@ -1,5 +1,5 @@
-import requests  # Импорт библиотеки для запросов к серверу
-from bs4 import BeautifulSoup  # Импорт библиотеки для автоматического парсинга странички
+import requests
+from bs4 import BeautifulSoup
 import pandas as pd
 import os
 import argparse
